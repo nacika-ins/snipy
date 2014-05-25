@@ -6,6 +6,7 @@ from PySide.QtCore import *
 from PySide.QtGui import *
 
 
+
 # Create a Qt application
 app = QApplication(sys.argv)
 
